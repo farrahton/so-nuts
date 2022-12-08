@@ -21,10 +21,10 @@ Wanneer mensen met pensioen gaan verandert er veel, ook hun eet- en beweeggewoon
 ![All_screens](https://user-images.githubusercontent.com/92303930/175498895-49d7239c-8e63-4bb6-af12-4a3fdb743d56.png)
 
 ## Live demo
-https://so-nuts.herokuapp.com/
+https://so-nuts.onrender.com
 
 ## Installatie
-Om te bekijken, bezoek de [Heroku app](https://so-nuts.herokuapp.com/). Om lokale wijzigingen aan te brengen, clone de repository en bewerk de bestanden in een IDE.
+Om te bekijken, bezoek de [website](https://so-nuts.onrender.com). Om lokale wijzigingen aan te brengen, clone de repository en bewerk de bestanden in een IDE.
 
 ## Gebruikershandleiding en functies
 In de SO-NUTS web app kan je een account aanmaken en een vragenlijst invullen. Vervolgens kan je uit een lijst met doelen kiezen op welke je wilt focussen voor 21 dagen. Iedere dag kan je een doel afvinken als je het doel hebt voltooid en wanneer nodig is er de optie om een doel te verwijderen. Als gebruiker heb je ook een profielpagina met daarop een dagelijkse quote voor motivatie. Wil je meer weten? Kijk op de [wiki](https://github.com/lisannevvliet/so-nuts/wiki/Design-Rationale#code-uitleg-op-basis-van-de-customer-journey) voor meer uitleg.
@@ -64,6 +64,3 @@ De voltooide taken zijn te vinden in de [commit messages](https://github.com/lis
 
 ## Auteurs
 De auteurs van dit project zijn [Farrahton Piers](https://github.com/farrahton) en [Lisanne van Vliet](https://github.com/lisannevvliet).
-
-## Licentie
-Dit project is gelicenseerd onder de [GPL-3.0 licentie](https://github.com/lisannevvliet/so-nuts/blob/main/LICENSE).

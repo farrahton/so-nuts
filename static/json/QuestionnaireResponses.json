@@ -1,0 +1,39 @@
+{
+	"id": "3",
+	"questionnaireId": "2",
+	"participantId": "1",
+	"questionResponses": [
+		{
+			"questionId": "leeftijd",
+			"response": "24",
+			"choiceOptionIds": []
+		},
+		{
+			"questionId": "sex",
+			"response": null,
+			"choiceOptionIds": [
+				"sex-m"
+			]
+		},
+		{
+			"questionId": "geboorteLand",
+			"response": "Nederland",
+			"choiceOptionIds": []
+		},
+		{
+			"questionId": "geboorteLandMoeder",
+			"response": "Nederland",
+			"choiceOptionIds": []
+		},
+		{
+			"questionId": "geboorteLandVader",
+			"response": "Nederland",
+			"choiceOptionIds": []
+		},
+		{
+			"questionId": "burgerlijkeStaat",
+			"response": "Het is gecompliceerd",
+			"choiceOptionIds": []
+		}
+	]
+}

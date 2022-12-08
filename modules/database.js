@@ -76,5 +76,16 @@ module.exports = {
         } else {
             return response.data.streak
         }
+    },
+    read_next_id: async () => {
+        const response = await supabase
+            .from("users")
+            .select("id")
+            .order("id", { ascending: false })
+            .limit(1)
+            .single()
+
+        // Return the highest ID plus one.
+        return response.data.id + 1
     }
 }

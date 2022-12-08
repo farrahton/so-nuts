@@ -1,0 +1,96 @@
+{
+	"id": "2",
+	"title": "...",
+	"description": "....",
+	"questions": [
+		{
+			"id": "leeftijd",
+			"text": "Wat is je leeftijd?",
+			"type": null,
+			"openLabel": null,
+			"answerOptions": []
+		},
+		{
+			"id": "sex",
+			"text": "Wat is je geslacht?",
+			"type": "multiChoice",
+			"openLabel": null,
+			"answerOptions": [
+				{
+					"id": "sex-m",
+					"text": "Man",
+					"selected": false
+				},
+				{
+					"id": "sex-v",
+					"text": "Vrouw",
+					"selected": false
+				},
+				{
+					"id": "sex-a",
+					"text": "Anders",
+					"selected": false
+				}
+			]
+		},
+		{
+			"id": "geboorteLand",
+			"text": "In welk land ben jezelf geboren?",
+			"type": null,
+			"openLabel": null,
+			"answerOptions": []
+		},
+		{
+			"id": "geboorteLandMoeder",
+			"text": "In welk land is jouw moeder geboren?",
+			"type": null,
+			"openLabel": null,
+			"answerOptions": []
+		},
+		{
+			"id": "geboorteLandVader",
+			"text": "In welk land is jouw vader geboren?",
+			"type": null,
+			"openLabel": null,
+			"answerOptions": []
+		},
+		{
+			"id": "burgerlijkeStaat",
+			"text": "Welke van onderstaande beschrijvingen past het beste bij uw situatie?",
+			"type": "multiOpenChoice",
+			"openLabel": "Anders nml:",
+			"answerOptions": [
+				{
+					"id": "bs-as",
+					"text": "Alleenstaand",
+					"selected": false
+				},
+				{
+					"id": "bs-gt",
+					"text": "Getrouwd",
+					"selected": false
+				},
+				{
+					"id": "bs-sw",
+					"text": "Samenwonend",
+					"selected": false
+				},
+				{
+					"id": "bs-aw",
+					"text": "Apart wonend",
+					"selected": false
+				},
+				{
+					"id": "bs-we",
+					"text": "Weduwnaar",
+					"selected": false
+				},
+				{
+					"id": "bs-gs",
+					"text": "Gescheiden",
+					"selected": false
+				}
+			]
+		}
+	]
+}

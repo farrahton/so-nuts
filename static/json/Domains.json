@@ -1,0 +1,10 @@
+[
+	{
+		"id": "mib-domain-nutrition",
+		"name": "Voeding"
+	},
+	{
+		"id": "mib-domain-exercise",
+		"name": "Beweging"
+	}
+]
